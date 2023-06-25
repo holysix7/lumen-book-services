@@ -1,2 +1,2 @@
 # lumen-book-services
-Learning creating services for microservices purpose
+Learning creating simple books service for microservices purpose
